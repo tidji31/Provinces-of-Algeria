@@ -1,6 +1,7 @@
 # Provinces-of-Algeria
-58 wilayas (provinces):
+This is a non-paid and open source project. Everyone is invited to use the data.
 
+# 58 wilayas (provinces):
 01	Adrar	أدرار.
 
 02	Chlef	الشلف	

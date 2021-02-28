@@ -1,5 +1,5 @@
 # Provinces-of-Algeria
-58 wilayas (provinces).
+58 wilayas (provinces):
 
 01	Adrar	أدرار.
 

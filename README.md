@@ -2,9 +2,13 @@
 58 wilayas (provinces).
 
 01	Adrar	أدرار.
+
 02	Chlef	الشلف	
-03	Laghouat	الأغواط	
-04	Oum El Bouaghi	أم البواقي	
+
+03	Laghouat	الأغواط
+
+04	Oum El Bouaghi	أم البواقي
+
 05	Batna	باتنة	
 07	Biskra	بسكرة	
 08	Béchar	بشار	
